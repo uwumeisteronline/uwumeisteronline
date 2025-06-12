@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hewwo%20everybody%20👋,%20Names%20Won%20Jun.&animation=twinkling&fontColor=ffffff&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> An art and tech student from South Korea. </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Art and tech / Lib and Info student from South Korea. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 🌱 I’m currently learning the basics of Python, C++, HTML 5, CSS 3 and Javascript.</li></li> <br>  👯 I’m looking to collaborate on making fun music games!</li></li> <br>  🤝 I’m looking for help with programmers, music composers.</li></li> <br>  💬 Ask me about arcade rhythm games.</li></li> <br>  ⚡ Fun fact : I've been playing rhythm games since 2009.</li> </div> 
     </div>
     <div style="text-align: left;">
